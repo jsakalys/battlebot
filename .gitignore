@@ -1,0 +1,8 @@
+node_modules
+.env
+
+node_modules/*
+!node_modules/botkit/
+
+node_modules/botkit/*
+!node_modules/botkit/slack_bot.js
